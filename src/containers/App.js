@@ -9,7 +9,7 @@ import ErrorBoundry from '../components/ErrorBoundry';
 
 import './App.css';
 
-// parameter state comes from index.js provider store state(rootReducers)
+// parameter state comes from index.js provider store state(rootReducers) adadad
 const mapStateToProps = (state) => {
   return {
     searchField: state.searchRobots.searchField,
